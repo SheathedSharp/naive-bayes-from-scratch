@@ -1,8 +1,6 @@
 # Iris Naive Bayes
 
 Naive Bayes classifier for Iris dataset with custom probability estimation. Built using pandas and numpy.
-
-[Colab For Bayesian](https://colab.research.google.com/drive/1HF-uIP_tEbSVjN4D2HqDCDhgQbXyYF0U?usp=sharing) 
  
 ## Overview
 This project implements a Naive Bayes classifier for the Iris flower dataset. The probability estimation is custom-built without using scikit-learn or other ML libraries.
